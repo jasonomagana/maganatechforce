@@ -533,32 +533,3 @@ textarea::placeholder {
         text-align: center;
     }
 }
-
-@media(orientation: landscape) and (max-height: 768px) {
-
-    .projects__description { 
-        margin-bottom: 0;
-    }
-
-    .about__heading-title {
-        font-size: 2rem;
-    }
-
-    .about__heading-description {
-        font-size: 1rem;
-    }
-
-    .about__content-flex-text {
-        margin-top: 1rem;
-        padding-top: 2rem;
-    }
-
-    .about__content-flex-image img {
-        display: none;
-    }
-
-    .about__content-flex-title {
-        text-align: center;
-        margin-bottom: 1.3rem;
-    }
-}
