@@ -547,17 +547,7 @@ textarea::placeholder {
     .about__heading-description {
         font-size: 1rem;
     }
-
-    .about__content-flex-image {
-        margin-bottom: 0;
-        padding-bottom: 0;
-    }
-
-    .about__content-flex {
-        flex-direction: column-reverse;
-        padding: 0;
-    }
-
+    
     .about__content-flex-text {
         margin-top: 1rem;
         padding-top: 2rem;
