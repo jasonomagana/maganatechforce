@@ -553,7 +553,7 @@ textarea::placeholder {
         padding-top: 2rem;
     }
 
-    .about__content-flex-image {
+    .about__content-flex-image img {
         display: none;
     }
 
