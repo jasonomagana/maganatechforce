@@ -405,6 +405,10 @@ textarea::placeholder {
         margin-bottom: 0;
     }
 
+    .about__content-flex {
+        flex-direction: column;
+    }
+
     .projects__flex-item-right {
         margin-top: 5rem;
     } 
