@@ -115,7 +115,7 @@ ul {
     width: 100%;
     background: #111111;
     padding: 4rem 2rem;
-    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 2px 5px rgba(255, 234, 43, 0.5);
     border-top: 1px solid rgba(255, 255, 255, 0.1);
     opacity: 0.9;
     transition: transform 0.3s ease-in-out;
@@ -149,8 +149,9 @@ ul {
 /* Header */
 
 .header {
-    background: #111 url('../images/background2.jpg') center center/cover no-repeat;
+    background: #000075;
     padding: 11.5rem 2rem 8rem;
+    border-bottom: 2px solid #fff;
 }
 
 .header__container {
