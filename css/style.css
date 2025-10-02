@@ -149,7 +149,7 @@ ul {
 /* Header */
 
 .header {
-    background: #000047;
+    background: radial-gradient(circle,rgba(67, 93, 168, 1) 0%, rgba(13, 27, 42, 1) 100%);;
     padding: 11.5rem 2rem 8rem;
     border-bottom: 2px solid #fff;
 }
